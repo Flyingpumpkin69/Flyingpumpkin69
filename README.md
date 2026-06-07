@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
-  <img src="https://profile-counter.glitch.me/Flyingpumpkin69/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Flyingpumpkin69&color=orange&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -98,9 +98,11 @@
 ### 📈 GitHub Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flyingpumpkin69&show_icons=true&theme=calm&count_private=true" alt="Yashrajsinh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flyingpumpkin69&theme=react-dark" alt="Yashrajsinh's Activity Graph" width="100%" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flyingpumpkin69&theme=calm" alt="GitHub Streak" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyingpumpkin69&layout=compact&theme=calm" alt="Top Langs" height="180px" />
 </p>
 
 ---
