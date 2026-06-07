@@ -1,100 +1,105 @@
-# Hi there, I'm Yashrajsinh Chauhan 👋
+#  Yashrajsinh Chauhan 👋
+### 🚀 Senior / Mid-Level Full-Stack & Systems Engineer | AWS Certified Cloud Practitioner
 
 <p align="left">
-  <a href="https://linkedin.com/in/yashrajsinh-chauhan-b01676246" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yashraj.spec@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  <img src="https://profile-counter.glitch.me/Flyingpumpkin69/count.svg" alt="Visitor Count" />
 </p>
 
-I am a **Full-Stack & Systems Integration Engineer** and **AWS Certified Cloud Practitioner** with over 2.5 years of experience. I specialize in bridging the gap between high-level web software (React, Node.js, .NET Core) and low-level system hardware/protocols (WebRTC, ONVIF, Dell iDRAC Redfish API, Zabbix).
+---
+
+### 📖 About Me
+*   🤖 **Systems & Web Integration Specialist:** Over 2.5+ years of professional experience bridging the gap between web ecosystems and real hardware (IP Cameras, Dell Server iDRAC API, network routers, and switches).
+*   ☁️ **Cloud Practitioner:** AWS Certified (May 2026) with solid knowledge of server deployments, virtualization, and network monitoring architecture.
+*   🌱 **Continuous Learner:** Currently mastering low-latency **Golang** backend architectures and advanced cloud networking.
+*   📍 Ahmedabad, Gujarat, India (Open to Relocation & Remote roles)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ My Technical Toolbox
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>💻 Frontend</strong><br/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>⚙️ Backend & Systems</strong><br/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET Core" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>📡 Protocols & Real-Time</strong><br/>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
-      <img src="https://img.shields.io/badge/RTSP%20%2F%20HLS-FF6600?style=flat-square" alt="RTSP/HLS" />
-      <img src="https://img.shields.io/badge/ONVIF-008080?style=flat-square" alt="ONVIF" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>☁️ Cloud, Databases & DevOps</strong><br/>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-      <img src="https://img.shields.io/badge/Zabbix-E1251B?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>💻 Frontend & UI Development</b></summary>
+<br/>
+
+*   **Languages:** `JavaScript (ES6+)`, `TypeScript`
+*   **Libraries & Frameworks:** `React.js`, `Redux`, `Zustand`
+*   **Styling:** `Tailwind CSS`, `CSS3 / HTML5`, `HSL Curated Themes`
+*   **Tools:**
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, Systems & Protocols</b></summary>
+<br/>
+
+*   **Languages & Core:** `Node.js`, `C# (.NET Core)`, `Golang` (Go)
+*   **Media & Real-time:** `WebRTC`, `Socket.io`, `RTSP / HLS Video Streaming`, `MediaMTX`
+*   **Hardware/IoT Protocols:** `ONVIF (IP Camera Control)`, `iDRAC Redfish API (Dell Server Telemetry)`, `SNMP`
+*   **Tools:**
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>☁️ Databases, Monitoring & Infrastructure</b></summary>
+<br/>
+
+*   **Databases:** `MongoDB`, `Microsoft SQL Server`, `Redis`
+*   **Monitoring System:** `Zabbix NMS Configs`, `SNMP Alert Triggers`
+*   **Cloud & Deployments:** `AWS (EC2, S3, IAM, VPC)`, `Docker Containers`
+*   **Tools:**
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zabbix-E1251B?style=for-the-badge&logo=zabbix&logoColor=white" />
+</details>
 
 ---
 
-### 🏅 Certifications & Badges
-*   **AWS Certified Cloud Practitioner** (Cleared May 2026)
-    *   *Credential validation available upon request.*
-*   **Full Stack Web Development Certification** – Edureka Learning Center
-
----
-
-### 📦 Featured Professional Systems Projects
-*Because much of my daily work at SPEC India is enterprise/proprietary, here are detailed case-studies of architectures I have designed and built:*
+### 📦 Highlighted Systems Architecture Projects
 
 #### 🎥 1. Enterprise Video Management System (VMS) with AI Face Recognition
-*   **Role:** Full-Stack & Systems Integration Developer
-*   **Description:** Built an enterprise-grade live camera monitoring panel with real-time video streaming, PTZ controls, and face recognition alerts.
-*   **Key Accomplishments:**
-    *   Integrated **MediaMTX** to ingest live **RTSP** camera feeds and transcode them into high-performance, low-latency streams for standard web browsers (WebRTC/Whip/Whep).
-    *   Implemented **ONVIF** protocol discovery to automatically detect and control multi-vendor IP cameras on local subnets.
-    *   Built a custom React-based PTZ (Pan-Tilt-Zoom) controller to adjust camera hardware position directly from the browser UI.
-*   **Tech Stack:** React.js, MediaMTX, ONVIF, RTSP, WebRTC, Node.js.
+*   **Role:** *Full-Stack & Systems Integration Developer*
+*   **Details:** Designed a camera stream ingestion portal that transcodes raw surveillance RTSP inputs for lag-free web playing.
+*   **Highlights:**
+    *   ⚡ Integrated **MediaMTX** for low-latency live web feeds via **WebRTC**.
+    *   🕹️ Authored custom Pan-Tilt-Zoom (PTZ) controller UI utilizing the **ONVIF** protocol.
+    *   👤 Wired facial recognition model triggers to display real-time client alerts.
 
-#### 🖥️ 2. Hardware Health Monitoring System (iDRAC Redfish API)
-*   **Role:** Lead R&D & Integration Engineer
-*   **Description:** Conducted deep research and integration of Dell out-of-band server management (iDRAC) telemetry into an enterprise backend application.
-*   **Key Accomplishments:**
-    *   Created backend collectors that poll the RESTful **Redfish API** to monitor critical server stats (CPU temps, disk arrays, power usage, fan speeds).
-    *   Transformed complex server-level JSON responses into structured data for clean UI dashboard representation.
-    *   Wrote standard integration guides used by the team to adopt the API in a legacy .NET Core ecosystem.
-*   **Tech Stack:** C# .NET Core, Redfish API, REST, JSON.
+#### 🖥️ 2. Hardware Health Monitoring System (Dell iDRAC Redfish API)
+*   **Role:** *Lead R&D & Systems Engineer*
+*   **Details:** Integrated Dell out-of-band iDRAC endpoints into an enterprise dashboard.
+*   **Highlights:**
+    *   📊 Crafted high-performance backend collectors polling the **Redfish REST API**.
+    *   🌡️ Aggregated server-level temperatures, fan speeds, and memory health arrays.
 
-#### 🔒 3. Chatwalk – Real-Time Meeting Suite
-*   **Role:** Full-Stack Developer
-*   **Description:** Designed and implemented an internal secure meeting system featuring live P2P video conferencing and text channels.
-*   **Key Accomplishments:**
-    *   Architected real-time messaging using **Socket.io** to enable instant delivery of texts and status indicators.
-    *   Configured **WebRTC** peers for group video calls with dynamic resolution adjustments based on network bandwidth.
-*   **Tech Stack:** Node.js, Express, React.js, WebRTC, Socket.io, MongoDB, JWT.
+#### 💬 3. Chatwalk – Real-Time Meeting Suite
+*   **Role:** *Full-Stack Developer*
+*   **Details:** High-end P2P chat room and video calling app.
+*   **Highlights:**
+    *   🤝 Configured multi-user **WebRTC** connections with adaptive quality throttling.
+    *   🔌 Developed secure channels utilizing **Socket.io** and **JWT** refresh policies.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Github Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flyingpumpkin69&show_icons=true&theme=nord&count_private=true" alt="Yashrajsinh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyingpumpkin69&layout=compact&theme=nord" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flyingpumpkin69&show_icons=true&theme=calm&count_private=true" alt="Yashrajsinh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyingpumpkin69&layout=compact&theme=calm" alt="Top Langs" height="180px" />
 </p>
+
+---
+
+### ⭐ How to Connect
+*   💼 **LinkedIn:** [linkedin.com/in/yashrajsinh-chauhan-b01676246](https://linkedin.com/in/yashrajsinh-chauhan-b01676246)
+*   📧 **Professional Email:** yashraj.spec@gmail.com
