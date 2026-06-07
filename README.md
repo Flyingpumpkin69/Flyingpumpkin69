@@ -2,8 +2,12 @@
 ### 🚀 Senior / Mid-Level Full-Stack & Systems Engineer | AWS Certified Cloud Practitioner
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://linkedin.com/in/yashrajsinh-chauhan-b01676246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yashrajsinh3674@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
   <img src="https://profile-counter.glitch.me/Flyingpumpkin69/count.svg" alt="Visitor Count" />
 </p>
@@ -103,4 +107,4 @@
 
 ### ⭐ How to Connect
 *   💼 **LinkedIn:** [linkedin.com/in/yashrajsinh-chauhan-b01676246](https://linkedin.com/in/yashrajsinh-chauhan-b01676246)
-*   📧 **Professional Email:** yashraj.spec@gmail.com
+*   📧 **Email:** [yashrajsinh3674@gmail.com](mailto:yashrajsinh3674@gmail.com)
