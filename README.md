@@ -91,10 +91,11 @@
 
 ---
 
-### 📊 Github Performance Metrics
+### 📈 GitHub Performance Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Flyingpumpkin69&show_icons=true&theme=calm&count_private=true" alt="Yashrajsinh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flyingpumpkin69&theme=calm" alt="GitHub Streak" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyingpumpkin69&layout=compact&theme=calm" alt="Top Langs" height="180px" />
 </p>
 
