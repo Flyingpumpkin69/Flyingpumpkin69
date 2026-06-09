@@ -108,5 +108,5 @@
 ---
 
 ### ⭐ How to Connect
-*   💼 **LinkedIn:** [linkedin.com/in/yashrajsinh-chauhan-b01676246](https://linkedin.com/in/yashrajsinh-chauhan-b01676246)
+*   💼 **LinkedIn:** [linkedin.com/in/yashrajsinh-chauhan-b01676246](https://in.linkedin.com/in/yashrajsinh-chauhan%E2%8F%AA-b01676246)
 *   📧 **Email:** [yashrajsinh3674@gmail.com](mailto:yashrajsinh3674@gmail.com)
