@@ -2,7 +2,7 @@
 ### 🚀 Senior / Mid-Level Full-Stack & Systems Engineer | AWS Certified Cloud Practitioner
 
 <p align="left">
-  <a href="https://linkedin.com/in/yashrajsinh-chauhan-b01676246" target="_blank">
+  <a href="https://in.linkedin.com/in/yashrajsinh-chauhan%E2%8F%AA-b01676246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yashrajsinh3674@gmail.com">
